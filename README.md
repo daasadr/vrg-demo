@@ -14,15 +14,15 @@ Toto je jednoduchá webová aplikace vytvořená pomocí React a OpenLayers pro 
 1. Ujistěte se, že máte nainstalovaný Node.js a npm.
 
 2. Naklonujte tento repozitář:
-git clone https://github.com/VaseUzivatelskeJmeno/vrg-demo.git
+  git clone https://github.com/VaseUzivatelskeJmeno/vrg-demo.git
 
 3. Přejděte do složky projektu:
-cd vrg-demoCopy
+  cd vrg-demoCopy
 4. Nainstalujte závislosti:
-npm install
+  npm install
 
 5. Spusťte aplikaci:
-npm start
+  npm start
 
 6. Otevřete prohlížeč a přejděte na `http://localhost:3000`
 
